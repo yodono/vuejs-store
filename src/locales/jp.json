@@ -1,0 +1,15 @@
+{
+	"jp": "jp",
+	"jp-name": "日本語",
+	"jp-currency": "JPY",
+	"cart": {
+		"no-products": "カートに商品がありません",
+		"your-cart": "カード"
+	},
+	"catalog": "製品",
+	"search-product": "検索: 製品",
+	"search-category": "検索: カテゴリー",
+	"no-products-in-category": "検索に一致する商品はありませんでしたの",
+	"clear-filters": "クリア検索",
+	"buy-for": "購入 {price}"
+}

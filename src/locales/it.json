@@ -1,0 +1,15 @@
+{
+	"it": "it",
+	"it-name": "Italiano",
+	"it-currency": "EUR",
+	"cart": {
+		"no-products": "Il tuo carrello è vuoto",
+		"your-cart": "Carrello"
+	},
+	"catalog": "Catalogo",
+	"search-product": "Cerca prodotti",
+	"search-category": "Cerca categorie",
+	"no-products-in-category": "Nessun risultato per categorie:",
+	"clear-filters": "Rimuovi tutti i filtri",
+	"buy-for": "Compra per: {price}"
+}

@@ -1,0 +1,15 @@
+{
+	"en": "us",
+	"en-name": "English",
+	"en-currency": "USD",
+	"cart": {
+		"no-products": "There are no products in your cart",
+		"your-cart": "Your Cart"
+	},
+	"catalog": "Catalog",
+	"search-product": "Search product",
+	"search-category": "Search category",
+	"no-products-in-category": "We're sorry, no product was found in this category:",
+	"clear-filters": "Clear filters",
+	"buy-for": "Buy for: {price}"
+}
